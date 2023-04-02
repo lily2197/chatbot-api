@@ -1,2 +1,6 @@
 server:
   port: 8090
+chatbot-api:
+  old: 22788449
+  cookie: buvid3=9B8A984E-4D6C-BBEA-0E54-1B1B001F949E95713infoc; b_nut=1679364295; i-wanna-go-back=-1; _uuid=8441EF3A-412A-410AA-DFF9-D481E91D3101A96696infoc; home_feed_column=4; DedeUserID=66705325; DedeUserID__ckMd5=66da250c899e904e; CURRENT_FNVAL=4048; rpdid=0zbfvUxDUI|EuTDt531|2ZG|3w1PErnM; PVID=1; nostalgia_conf=-1; CURRENT_QUALITY=64; b_ut=5; header_theme_version=CLOSE; CURRENT_PID=0c673870-cee4-11ed-a499-093ff39cb05b; buvid4=CFFCC5FB-107D-F71D-9F71-D05F69E8D35697288-023032110-Aewihy+MgAaSKuckaztooBnfn7Nwj5RQ1+OWyeSRJGMIOMRpwBh26Q==; fingerprint=7f39d920bad8ee4bb83b21742f772704; buvid_fp_plain=undefined; SESSDATA=a1435c41,1695900629,ff26d*41; bili_jct=9c4389c3135efcdf6a0c32dd5f5bfa64; sid=6lvvq2jr; bsource=search_baidu; bp_video_offset_66705325=779638243485286500; buvid_fp=7f39d920bad8ee4bb83b21742f772704; b_lsid=AEFD106BC_1873F8C729B
+  csrf: 9c4389c3135efcdf6a0c32dd5f5bfa64
